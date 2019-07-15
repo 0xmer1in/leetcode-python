@@ -1,0 +1,36 @@
+Trie树
+简单：https://leetcode-cn.com/problems/longest-word-in-dictionary/ √
+中等：https://leetcode-cn.com/problems/implement-trie-prefix-tree/
+中等：https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/
+困难：https://leetcode-cn.com/problems/word-search-ii/
+
+
+分治算法
+简单：https://leetcode-cn.com/problems/majority-element/
+中等：https://leetcode-cn.com/problems/maximum-subarray/
+中等：https://leetcode-cn.com/problems/search-a-2d-matrix-ii/ √
+
+
+贪心算法
+简单：https://leetcode-cn.com/problems/assign-cookies/
+中等：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+
+
+回溯算法
+简单：https://leetcode-cn.com/problems/letter-case-permutation/
+中等：https://leetcode-cn.com/problems/subsets/
+中等：https://leetcode-cn.com/problems/permutations/
+中等：https://leetcode-cn.com/problems/combinations/
+困难：https://leetcode-cn.com/problems/n-queens/
+
+
+动态规划
+简单：https://leetcode-cn.com/problems/climbing-stairs/
+中等：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+困难：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/
+困难：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/
+简单：https://leetcode.com/problems/house-robber/
+中等：https://leetcode.com/problems/house-robber-ii/
+中等：https://leetcode.com/problems/house-robber-iii/
+中等：https://leetcode.com/problems/unique-paths/
+中等：https://leetcode.com/problems/unique-paths-ii/
